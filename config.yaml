@@ -1,0 +1,13 @@
+product: nidoking
+# for ac cycle
+PDU_Inlet: [1,2]
+MLB:
+    - {index: 1, image: /root/Nidoking_MLB_CPLD_0x80B9_v1.5.jed, version: '15'}
+    - {index: 1, image: /root/Nidoking_MLB_CPLD_0x80B9_v1.5.jed, version: '15'}
+2BP:
+    - {index: 2, image: dfasaf, version: 0f}
+    - {index: 2, image: dfasaf, version: 0f}
+12BP:
+    - {index: 3, image: dfasaf, version: 0f}
+    - {index: 3, image: dfasaf, version: 0f}
+
